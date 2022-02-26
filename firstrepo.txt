@@ -1,3 +1,6 @@
-this is not a read me file.
+
+
+
+this is not a my first read me file.
 we are in he git session.
 i am changing this file
