@@ -1,1 +1,2 @@
 this is my first read me file.
+we are in he git session.
